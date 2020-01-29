@@ -10,3 +10,6 @@ This repo explains about the basic elements involved in boot strap.
 
   
 I am explaining the boot strap.
+
+
+New boot strap code will be coming soon....
