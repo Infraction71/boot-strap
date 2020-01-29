@@ -7,4 +7,4 @@
 4. Ravichander Reddy Goli
 
 This repo explains about the basic elements involved in boot strap.
- 
+ More about boot strap will be updated later.
