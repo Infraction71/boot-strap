@@ -5,3 +5,6 @@
 2. Rohith Chittimalla
 3. Vigneshwar Reddy Lenkala
 4. Ravichander Reddy Goli
+
+This repo explains about the basic elements involved in boot strap.
+ 
