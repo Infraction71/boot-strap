@@ -19,6 +19,6 @@ New boot strap code will be coming soon....
 
 ## Group Members GitHub links 
 [Teju2404] (https://github.com/Teju2404)
-[Rohith0696] (https://github.com/rohith0696)
-[Vigneshwar666] (https://github.com/vigneshwar6666)
-[RaviChanderReddy] (https://github.com/Ravichanderreddy-goli)
+  [Rohith0696] (https://github.com/rohith0696)
+  [Vigneshwar666] (https://github.com/vigneshwar6666)
+  [RaviChanderReddy] (https://github.com/Ravichanderreddy-goli)
