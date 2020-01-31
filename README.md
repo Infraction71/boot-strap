@@ -14,7 +14,7 @@ I am explaining the boot strap.
 New boot strap code will be coming soon....
 
 ## Group-image
-![image](https://github.com/Teju2404/boot-strap/blob/master/Group-image.jpeg)
+![image](https://github.com/Teju2404/boot-strap/blob/master/Group-image.jpeg?raw=true)
 
 
 ## Group Members GitHub links 
